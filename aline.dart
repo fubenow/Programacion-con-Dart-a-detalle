@@ -1,3 +1,0 @@
-main() {
-  print("Aline Videla");
-}
