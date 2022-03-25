@@ -11,12 +11,12 @@ Para recordar este repositorio, puedes destacarlo (con la '**ESTRELLA**' arriba 
 
 A continuación el temario del curso con sus link de los videos y paginas de referencia.
 
-1. Capítulo 1 - ¿Que es Dart?
+1. ¿Que es Dart?
     - 1.1.- Sobre Dart - [Hacer click aquí para ver Video](https://fubenow.com)
     - 1.2.- Bondades de Dart - [Hacer click aquí para ver Video](https://fubenow.com)
     - 1.3.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-    - 1.4.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - 1.4.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com) 
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 1.5.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
@@ -27,7 +27,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 1.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-2. Capítulo 2 - Setup básico 
+2. Setup básico 
     - 2.1.- Dart Pad - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visita la herramienta: [`Dart Pad - Click aquí ir a la herramienta`](https://dartpad.dev/)
     - 2.2.- Bondades de Dart - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -44,7 +44,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 2.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-3. Capítulo 3 - Setup Avanzado
+3. Setup Avanzado
     - 3.1.- Visual Studio Code - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página oficial: [`Visual Studio Code - Click aquí para visitar la página`](https://code.visualstudio.com/)
     - 3.2.- Git Bash - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -62,7 +62,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 3.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-4. Capítulo 4 - Git & GitHub básico
+4. Git & GitHub básico
     - 4.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 4.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -80,12 +80,12 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 4.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
   
-5. Capítulo 5 - Nuestro primer programa
-    - 5.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
+5. Nuestro primer programa
+    - 5.1.- Comentarios - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-    - 5.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
+    - 5.2.- ¡Hola Mundo! - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
-    - 5.3.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - 5.3.- Interpolación  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 5.4.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
