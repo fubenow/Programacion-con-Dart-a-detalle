@@ -98,7 +98,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 5.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-6. Capítulo 6 - Tipos de Variables
+6. Tipos de Variables
     - 6.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 6.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -116,7 +116,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 6.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-7. Capítulo 7 - Operadores
+7. Operadores
     - 7.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 7.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -134,7 +134,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 7.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-8. Capítulo 8 - Null Safety
+8. Null Safety
     - 8.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 8.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -152,7 +152,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 8.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-9. Capítulo 9 - Flujos de control
+9. Flujos de control
     - 9.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 9.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -170,7 +170,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 9.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-10. Capítulo 10 - Funciones
+10. Funciones
     - 10.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 10.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -188,7 +188,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 10.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-11. Capítulo 11 - Clases
+11. Clases
     - 11.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 11.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -206,7 +206,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 11.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-12. Capítulo 12 - Herencia
+12. Herencia
     - 12.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 12.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -224,7 +224,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 12.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-13. Capítulo 13 - Programación asíncrona
+13. Proyectos en Dart
     - 13.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 13.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -242,7 +242,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 13.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-14. Capítulo 14 - Herramientas de línea de comandos
+14. Programación asíncrona
     - 14.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 14.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -260,7 +260,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 14.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-15. Capítulo 15 - Bibliotecas principales
+15. Herramientas de línea de comandos
     - 15.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 15.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -278,7 +278,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 15.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-16. Capítulo 16 - Packages
+16. Bibliotecas principales
     - 16.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 16.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -296,7 +296,7 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 16.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
-17. Capítulo 17 - Dart efectivo
+17. Packages
     - 17.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 17.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
@@ -312,6 +312,24 @@ A continuación el temario del curso con sus link de los videos y paginas de ref
     - 17.7.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
     - 17.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+
+18. Dart efectivo
+    - 18.1.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+    - 18.2.- Clase - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+    - 18.3.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+    - 18.4.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+    - 18.5.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+    - 18.6.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+    - 18.7.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
+    - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
+    - 18.8.- Clase  - [Hacer click aquí para ver Video](https://fubenow.com)
     - Visitar la página - [`Página - Click aquí para ir a la página`](https://dartpad.dev/)
 
 Nuestros mejores deseos en su vieje, iniciarte en el 🌎 de la programación! 🎉

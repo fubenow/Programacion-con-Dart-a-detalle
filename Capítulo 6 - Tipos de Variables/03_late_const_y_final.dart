@@ -19,7 +19,7 @@ main() {
   lista.add(1);
   print(lista);
 
-  const List<int> lista = [1];
+  const List<int> lista_2 = [1];
 // const no permite cambiar el valor
   lista.add(1);
   print(lista);
