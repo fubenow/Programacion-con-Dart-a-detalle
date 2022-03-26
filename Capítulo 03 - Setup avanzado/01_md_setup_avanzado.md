@@ -11,5 +11,9 @@ Para instalar [git]:
 sudo apt update
 sudo apt install -y git
 ```
+<details>
+    <summary>Abrir</summary>
+    Este es un detalle
+</details>
 
-[git](https://git-scm.com/)
+[git]: https://git-scm.com/

@@ -1,5 +1,4 @@
 // Demos el punto de partida a nuestro programa.
-
 void main() {
   //Escribamos un programa que imprima tu nombre en la consola de comandos.
   String nombre = "John";
@@ -9,5 +8,10 @@ void main() {
   String nombreComillasSimples = 'John';
   print(nombreComillasSimples);
 
-  // Tambien puede
+  // Ahora escribamos un String multilínea.
+  String nombreMultilinea = '''
+  John Marcos
+  Videla Rivera
+  ''';
+  print(nombreMultilinea);
 }
