@@ -1,10 +1,4 @@
 main() {
-// Declaración de variables
-
-// Tipo_de_variable Nombre_de_Variable = Valor_de_variable
-
-//=========================================================
-
 // === Tipos de Variables ===
   // === Variable tipo "var" ===
   // Es una forma de declara variables sin especificación del tipo

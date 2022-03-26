@@ -1,0 +1,1 @@
+num estaNublado = 10;
