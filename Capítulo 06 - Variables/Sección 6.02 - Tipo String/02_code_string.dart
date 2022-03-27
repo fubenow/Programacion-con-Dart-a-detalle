@@ -9,9 +9,12 @@ void main() {
   print(nombreComillasSimples);
 
   // Ahora escribamos un String multilínea.
-  String nombreMultilinea = '''
-  John Marcos
-  Videla Rivera
+  String nombreMultilinea = '''John Marcos
+Videla Rivera
   ''';
   print(nombreMultilinea);
+
+  // Ahora escribamos un String pero con saltos de línea.
+  String saltoDeLinea = "John Marcos \nVidela Rivera";
+  print(saltoDeLinea);
 }

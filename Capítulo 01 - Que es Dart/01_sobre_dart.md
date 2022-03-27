@@ -1,7 +1,6 @@
 ## Bienvenido al curso Programación con Dart a detalle 💪, estamos muy felices de que estes aquí.
 
-Te presentamos el repositorio del curso, aquí encontraras el temario, las introducciones, el código y
- ejercicios utilizados durante todo el curso.
+Te presentamos el repositorio del curso, aquí encontraras el temario, las introducciones, el código y ejercicios utilizados durante todo el curso.
 
 #### ⚠️ IMPORTANTE
 Todas las herramientas que utilizaras **SON GRATUITAS** y **OPCIONALES**.

@@ -18,7 +18,7 @@ También debemos saber que utiliza el tipado estático y el tipado dinámico.
 
         var estaNublado = true; -> Dart infiere el tipo bool
 
-El tipado estático o fuerte, especifica el tipo (int, double, bool, String, ), mientras que el tipado dinámico o débil, infiere el tipo (var, dynamic, late, final, const).
+El tipado estático o fuerte, especifica el tipo (int, double, bool, String, ), mientras que el tipado dinámico o débil, infiere el tipo (var, final, const).
 
 Dart utiliza la inferencia de tipo cuando la declaración de variable no es del tipiado estático.
 
